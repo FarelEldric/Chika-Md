@@ -45,7 +45,7 @@
 
   // Set Image
   //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-  global.thumb = fs.readFileSync('./image/chika.jpg')
+  global.thumb = fs.readFileSync('./image/IMG_20220611_203530-compress1.jpg')
   global.velochika = fs.readFileSync('./image/chika.mp4')
 
   // Set Image Welcome
